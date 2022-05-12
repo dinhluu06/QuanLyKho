@@ -34,3 +34,6 @@ E:\ki 2 nam 4\TTN\QL_KHO-master\QL_KHO-master\QL_KHO\QL_Kho\obj\Debug\QL_Kho.Gui
 E:\ki 2 nam 4\TTN\QL_KHO\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
 E:\ki 2 nam 4\TTN\QL_KHO\QL_Kho\obj\Debug\QL_Kho.exe
 E:\ki 2 nam 4\TTN\QL_KHO\QL_Kho\obj\Debug\QL_Kho.pdb
+C:\Users\84372\Desktop\QuanLyKho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+C:\Users\84372\Desktop\QuanLyKho\QL_Kho\obj\Debug\QL_Kho.exe
+C:\Users\84372\Desktop\QuanLyKho\QL_Kho\obj\Debug\QL_Kho.pdb
